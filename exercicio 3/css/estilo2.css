@@ -1,0 +1,92 @@
+form{
+    width: 550px;
+    height: 550px;
+    margin: 0 auto;
+    margin-top: 100px;
+    background-color: rgb(134, 47, 3);
+    border-radius: 25px;
+    text-align: center;
+    border: none;
+    color: #eee;
+    font-size: 16px;
+    font-family: "arial";
+    font-weight: bold;
+    text-shadow: 2px 2px 2px #000;
+    position:relative;
+    padding-top: 15px;
+
+
+}
+input[type="text"],
+input[type="email"] {
+    width: 50%;
+    height: 35px;
+    background-color: #f5deb3;
+    border-radius: 5px;
+    box-shadow: 3px 3px 5px #000;
+    border: none;
+
+
+}
+
+select {
+    width: 50%;
+    height: 35px;
+    background-color: #f5deb3;
+    border-radius: 5px;
+    box-shadow: 3px 3px 5px #000;
+    border: none;
+}
+
+textarea {
+    background-color: #f5deb3;
+    width: 50%;
+    height: 100px;
+    border-radius: 5px;
+    box-shadow: 3px 3px 5px #000;
+    border: none;
+}
+
+input[type="button"] {
+    width: 100px;
+    height: 30px;
+    background-color: #000;
+    border-radius: 7px;
+    color: #eee;
+    border: none;
+    position: absolute;
+    left: 150px;
+}
+
+
+hr {
+    width: 450px;
+    height: 4px;
+    border: none;
+    background-color: #000;
+
+}
+
+p.campo3{
+    padding-right: 11px;
+    margin-left: -8px;
+    
+}
+p.campo4{
+    padding-right: 20px;
+    margin-bottom: 10px;
+    margin-left: -9px;
+}
+button{
+    width: 100px;
+    height: 30px;
+    background-color: #000;
+    border-radius: 7px;
+    color: #eee;
+    border: none;
+    
+    margin-right: 110px;
+}
+.mensagem{
+    
+}

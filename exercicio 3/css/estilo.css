@@ -1,0 +1,41 @@
+th.celula1{
+    background-color: rgb(237, 231, 231);
+    border-top: solid 2px rgb(157, 155, 153);
+    
+}
+th.celula2{
+    background-color: rgb(146, 250, 130);
+    border-top: solid 2px rgb(10, 141, 67);
+    
+}
+th.celula3{
+    background-color: rgb(92, 210, 246);
+    border-top: solid 2px rgb(49, 91, 245);
+    
+}
+th.celula4{
+    background-color: rgb(233, 178, 252);
+    border-top: solid 2px rgb(178, 89, 205);
+    
+}
+th.celula5{
+    background-color: rgb(252, 217, 178);
+    border-top: solid 2px rgb(247, 138, 15);
+    
+    
+    
+}
+main{
+    width: 100%;
+    padding-bottom: 200px;
+}
+table{
+    background-color:rgba(185, 181, 181, 0.599);
+    width: 80%;
+    height:500px;
+    padding: 8px 0 0 0;
+    margin: auto;
+    margin-top: 200px;
+    text-align: center;
+    border: #fff;
+}
