@@ -1,0 +1,30 @@
+.container {
+
+    border: 2px black solid;
+    padding: 10px;
+    margin: 0 auto;
+    max-width: 400px;
+
+}
+
+.caixa{
+
+    border: 2px black solid;
+    padding: 40px;
+    text-align: center;
+
+}
+
+.caixa2 {
+    margin-top: 10px;
+}
+
+table {
+    border: 1px solid black;
+    margin: 0 auto;
+}
+
+td {
+    border: 1px solid black;
+    width: 50px;
+}
