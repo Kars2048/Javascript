@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <table border="1">
+        <tr>
+            <th>Saldo Médio</th>
+            <th>Percentual</th>
+        </tr>
+        <tr>
+            <td>Acima de R$400,00</td>
+            <td>30% do saldo médio</td>
+        </tr>
+        <tr>
+            <td>De R$400,00 até R$300,00</td>
+            <td>25% do saldo médio</td>
+        </tr>
+        <tr>
+            <td>De R$300,00 até R$200,00</td>
+            <td>20% do saldo médio</td>
+        </tr>
+        <tr>
+            <td>Até R$200,00</td>
+            <td>10% do saldo médio</td>
+        </tr>
+    </table>
+
+
+    <form>
+        <p>Seu saldo médio é: </p><input type="text" id="valor"><br>
+        <p>Seu valor de crédito é: </p><input type="text" id="resultado" readonly> <br><br>
+        <button type="button" id="botao">Calcular</button>
+    </form>
+
+
+    <script src="js/exercicio2.js"></script>
+
+
+</body>
+</html>
